@@ -5,8 +5,9 @@ module.exports = {
     ],
     theme: {
         fontFamily: {
-            sans: ['Archivo', 'sans-serif']
+            sans: ['Roboto Slab', 'sans-serif'],
         },
+        lineHeight: {},
         extend: {}
     },
     plugins: [],
